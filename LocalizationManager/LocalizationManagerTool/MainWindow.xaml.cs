@@ -35,16 +35,9 @@ namespace LocalizationManagerTool
                 textColumn.Binding = new Binding(column);
                 dataGrid.Columns.Add(textColumn);
             }
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
 
         }
 
-        private void Button_Edit(object sender, RoutedEventArgs e)
-        {
 
-        }
     }
 }
